@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "title": "Optimize resume and GitHub projects for software engineering interviews",
+    "createdAt": "2026-01-27T19:04:28.179Z",
+    "updatedAt": "2026-01-27T19:04:28.179Z"
+  },
+  {
+    "id": 2,
+    "title": "Practice advanced DSA problems (Graphs, DP, Trees) for placements",
+    "createdAt": "2026-01-27T19:04:41.339Z",
+    "updatedAt": "2026-01-27T19:04:41.339Z"
+  },
+  {
+    "id": 3,
+    "title": "Implement and deploy a MERN-based Homework Task Manager",
+    "createdAt": "2026-01-27T19:04:56.537Z",
+    "updatedAt": "2026-01-27T19:04:56.537Z"
+  }
+]
